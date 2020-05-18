@@ -1,2 +1,2 @@
 # MCTOPP_VisualizationApp
-This is a visualization application developed for MCTOPP-Multi-Constraint Team Orienteering Problem with Patterns.
+This is an application developed for visualizing instances of MCTOPP-Multi-Constraint Team Orienteering Problem with Patterns.
